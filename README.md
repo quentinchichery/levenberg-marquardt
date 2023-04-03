@@ -1,6 +1,6 @@
 # Levenberg-Marquardt
 
-Levenberg-Marquardt method implementated in Numpy from scratch.
+Python implementation of Levenberg-Marquardt algorithm built from scratch in Numpy.
 
 In the example, I fit an mechanical hardening law (Hollomon) to noisy generated points:
 
