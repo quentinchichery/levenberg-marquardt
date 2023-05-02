@@ -11,3 +11,4 @@ In the example, I fit an mechanical hardening law (Hollomon: $σ = K * ε^n$) to
 Some references:
 - https://people.duke.edu/~hpgavin/ExperimentalSystems/lm.pdf
 - http://ananth.in/docs/lmtut.pdf
+- https://docs.mrpt.org/reference/latest/page_tutorial_math_levenberg_marquardt.html
